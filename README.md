@@ -1,4 +1,4 @@
-Low-effort project to get most popular requirements from Djinni.co
+### Low-effort project to get most popular requirements from Djinni.co
 
 Usage:
 
@@ -20,4 +20,4 @@ How get stats from raw data:
 
 1. be sure you have builded version (use tsc if not)
 
-2. Run node build/main.js with path to file. Example: `node build/main.js "C:\DjinniWebScraper\rawData\Node.js-2023-07-27T07-0000.json"
+2. Run node build/main.js with path to file. Example: `node build/main.js "C:\DjinniWebScraper\rawData\Node.js-2023-07-27T07-0000.json"`
